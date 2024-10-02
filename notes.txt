@@ -1,0 +1,13 @@
+spidermonkey and v8 are the popular javascript engines
+node js is a runtime environment which allows us to run the javascript other than in browser not a framework or
+
+npm -  node package manager
+module concept
+website npmjs.com
+socket.io
+REPL - read evaluate print loop
+
+first of all process.argv leart that
+process.argv - it is an array containing the command line arguments passed when the node launched
+npm install
+npm install chalk@4.1.2
